@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Gitlab</string>
-     <string name="title1">Gitreg 2020</string>
-     <string name="name1">SLIIT2020</string>
+    <string name="app_name" translatable="false">Gitlab</string>
+     <string name="title1" translatable="false">MAD regular</string>
+     <string name="name1" translatable="false">SLIIT 2020</string>
     
 </resources>
